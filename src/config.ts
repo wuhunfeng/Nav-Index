@@ -25,7 +25,7 @@ const WEBSITE_SORTS: WebsiteSort[] = [
     ],
   },
   {
-    title: "AI",
+    title: "服务",
         sites: [
       {
         title: "ChenFeng'S WebSite",
