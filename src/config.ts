@@ -1,7 +1,7 @@
 /** Website 分类配置 */
 const WEBSITE_SORTS: WebsiteSort[] = [
   {
-    title: "网站",
+    title: "尘封的网站",
     sites: [
       {
         title: "主标题",
@@ -24,10 +24,10 @@ const WEBSITE_SORTS: WebsiteSort[] = [
     ],
   },
   {
-    title: "服务",
+    title: "尘封的服务",
   },
   {
-    title: "收藏",
+    title: "尘封的收藏",
   },
   {
     title: "示例分类4",
@@ -36,7 +36,7 @@ const WEBSITE_SORTS: WebsiteSort[] = [
     title: "示例分类5",
   },
   {
-    title: "友情链接",
+    title: "尘封的友链",
     sites: [
       {
         title: "ChenFeng'S WebSite",
@@ -71,11 +71,11 @@ const GLOBAL_CONFIG = {
   /**
    * 背景图片地址
    */
-  BACKGROUND_IMG_URL: "https://api.dujin.org/bing/1920.php",
+  BACKGROUND_IMG_URL: "https://api.dujin.org/bing/1921.php",
   /**
    * ICP 备案号，留空不显示
    */
-  ICP: "尘ICP证000001号",
+  ICP: "尘封ICP证000001号",
   ICP_URL: "https://inav.pp.ua/",
   FOOTER_INFO: true,
   /**
@@ -104,7 +104,7 @@ const GLOBAL_CONFIG = {
    * 网站 Title Keywords Description 的配置，用于 SEO
    */
   TKD: {
-    title: "My Blog Index",
+    title: "尘封的导航",
     keywords: "Blog, Index, Index Page",
     description: "This is my personal blog index page.",
   },
