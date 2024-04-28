@@ -55,11 +55,11 @@ const GLOBAL_CONFIG = {
   /**
    * 博客名称
    */
-  BLOG_NAME: "EsunR-Blog",
+  BLOG_NAME: "尘封记忆",
   /**
    * 个人博客链接
    */
-  BLOG_URL: "https://blog.esunr.xyz",
+  BLOG_URL: "https://chen.pp.ua",
   /**
    * 指定中心 LOGO 图片地址
    */
@@ -75,8 +75,8 @@ const GLOBAL_CONFIG = {
   /**
    * ICP 备案号，留空不显示
    */
-  ICP: "京ICP证000001号",
-  ICP_URL: "https://beian.miit.gov.cn/",
+  ICP: "尘ICP证000001号",
+  ICP_URL: "https://inav.pp.ua/",
   FOOTER_INFO: true,
   /**
    * 网站欢迎标语
