@@ -1,7 +1,7 @@
 /** Website 分类配置 */
 const WEBSITE_SORTS: WebsiteSort[] = [
   {
-    title: "示例分类1",
+    title: "网站",
     sites: [
       {
         title: "主标题",
@@ -24,10 +24,10 @@ const WEBSITE_SORTS: WebsiteSort[] = [
     ],
   },
   {
-    title: "示例分类2",
+    title: "服务",
   },
   {
-    title: "示例分类3",
+    title: "收藏",
   },
   {
     title: "示例分类4",
