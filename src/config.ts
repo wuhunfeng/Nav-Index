@@ -36,9 +36,6 @@ const WEBSITE_SORTS: WebsiteSort[] = [
     ],
   },
   {
-    title: "状态",
-  },
-  {
     title: "收藏",
   },
   {
