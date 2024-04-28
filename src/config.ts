@@ -55,7 +55,7 @@ const GLOBAL_CONFIG = {
   /**
    * 博客名称
    */
-  BLOG_NAME: "尘封记忆ChenFeng'S WebSite",
+  BLOG_NAME: "尘封记忆",
   /**
    * 个人博客链接
    */
