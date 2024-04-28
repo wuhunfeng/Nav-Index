@@ -1,22 +1,23 @@
 /** Website 分类配置 */
 const WEBSITE_SORTS: WebsiteSort[] = [
   {
-    title: "尘封的网站",
+    title: "网站",
     sites: [
       {
-        title: "主标题",
-        url: "http://www.your-web-page.com/",
+        title: "尘封记忆",
+        description: "ChenFeng'S WebSite",
+        url: "http://chen.pp.ua/",
         icon: "",
         color: "#0171CD",
       },
       {
-        title: "主标题",
-        description: "网站描述",
-        url: "http://www.your-web-page.com/",
+        title: "尘封云盘",
+        description: "ChenFeng'S Alist",
+        url: "http://alist.pp.ua/",
         icon: "",
       },
       {
-        title: "主标题",
+        title: "尘封智能",
         description: "网站描述",
         url: "http://www.your-web-page.com/",
         icon: "",
@@ -24,19 +25,13 @@ const WEBSITE_SORTS: WebsiteSort[] = [
     ],
   },
   {
-    title: "尘封的服务",
+    title: "状态",
   },
   {
-    title: "尘封的收藏",
+    title: "收藏",
   },
   {
-    title: "示例分类4",
-  },
-  {
-    title: "示例分类5",
-  },
-  {
-    title: "尘封的友链",
+    title: "友链",
     sites: [
       {
         title: "ChenFeng'S WebSite",
