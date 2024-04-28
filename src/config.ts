@@ -11,16 +11,27 @@ const WEBSITE_SORTS: WebsiteSort[] = [
         color: "#0171CD",
       },
       {
-        title: "尘封云盘",
+        title: "尘封Alist",
         description: "ChenFeng'S Alist",
         url: "http://alist.pp.ua/",
         icon: "",
       },
       {
-        title: "尘封智能",
+        title: "尘封云盘",
         description: "网站描述",
         url: "http://www.your-web-page.com/",
         icon: "",
+      },
+    ],
+  },
+  {
+    title: "AI",
+        sites: [
+      {
+        title: "ChenFeng'S WebSite",
+        description: "尘封记忆",
+        url: "https://chen.pp.ua",
+        icon: "https://esunr-image-bed.oss-cn-beijing.aliyuncs.com/logo.jpg",
       },
     ],
   },
