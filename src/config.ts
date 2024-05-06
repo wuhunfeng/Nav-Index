@@ -66,7 +66,7 @@ const GLOBAL_CONFIG = {
   /**
    * 指定中心 LOGO 图片地址
    */
-  LOGO_URL: "https://cfx.pp.ua/x/cfstudio.png",
+  LOGO_URL: null,
   /**
    * 个人 Github 链接
    */
