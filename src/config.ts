@@ -31,7 +31,7 @@ const WEBSITE_SORTS: WebsiteSort[] = [
         title: "ChenFeng'S WebSite",
         description: "尘封记忆",
         url: "https://chen.pp.ua",
-        icon: "https://esunr-image-bed.oss-cn-beijing.aliyuncs.com/logo.jpg",
+        icon: "https://cfx.pp.ua/x/cfstudio.png",
       },
     ],
   },
@@ -66,7 +66,7 @@ const GLOBAL_CONFIG = {
   /**
    * 指定中心 LOGO 图片地址
    */
-  LOGO_URL: null,
+  LOGO_URL: "https://cfx.pp.ua/x/cfstudio.png",
   /**
    * 个人 Github 链接
    */
