@@ -14,6 +14,7 @@ const WEBSITE_SORTS: WebsiteSort[] = [
         title: "四季盘",
         description: "ChenFeng'S OpenList",
         url: "https://p.let.gs/",
+        url: "https://pan.let.gs/",
         icon: "",
       },
       {
