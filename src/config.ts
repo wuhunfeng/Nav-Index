@@ -1,24 +1,41 @@
 /** Website 分类配置 */
 const WEBSITE_SORTS: WebsiteSort[] = [
   {
-    title: "网站",
+    title: "四季城",
     sites: [
       {
-        title: "尘封记忆",
-        description: "ChenFeng'S WebSite",
+        title: "四季博客",
+        description: "ChenFeng'S Note",
         url: "https://chen.pp.ua/",
         icon: "",
         color: "#0171CD",
       },
       {
-        title: "四季盘",
-        description: "ChenFeng'S OpenList",
-        url: "https://p.let.gs/",
-        url: "https://pan.let.gs/",
+        title: "四季导航",
+        description: "ChenFeng'S Nav",
+        url: "https://360.let.gs/",
         icon: "",
       },
       {
-        title: "尘封导航",
+        title: "四季盘IPV6",
+        description: "ChenFeng'S OpenList",
+        url: "https://p.let.gs/",
+        icon: "",
+      },
+      {
+        title: "四季城IPV4",
+        description: "ChenFeng'S OpenList",
+        url: "https://p.let.gs/",
+        icon: "",
+      },
+      {
+        title: "四季云",
+        description: "ChenFeng'S OpenList",
+        url: "https://yun.let.gs/",
+        icon: "",
+      },
+      {
+        title: "四季导航",
         description: "ChenFeng'S Nav",
         url: "https://360.let.gs/",
         icon: "",
