@@ -25,7 +25,7 @@ const WEBSITE_SORTS: WebsiteSort[] = [
       {
         title: "四季城IPV4",
         description: "ChenFeng'S OpenList",
-        url: "https://p.let.gs/",
+        url: "https://pan.let.gs/",
         icon: "",
       },
       {
